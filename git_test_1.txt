@@ -1,0 +1,7 @@
+This is a test file
+To practice with git and github
+I will stage this file, then commit, then push it to the github repo
+git add
+git commit
+git push
+git status
